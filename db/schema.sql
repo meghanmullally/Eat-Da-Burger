@@ -1,4 +1,4 @@
--- DROP DATABASE "burgers_db";
+DROP DATABASE i1n80nu9ci8682wz;
 
 CREATE DATABASE i1n80nu9ci8682wz;
 
