@@ -10,6 +10,8 @@
 - [Visual Studio Code](https://visualstudio.microsoft.com/)
 - [Heroku](https://www.heroku.com/)
 - [Node.js](https://nodejs.org/)
+- MySQL Heroku Deployment 
+- MySQL 
 
 
 ### NPM Packages:
