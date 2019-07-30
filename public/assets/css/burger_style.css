@@ -3,5 +3,11 @@
 }
 
 body {
-  background-color: gold;
+  margin: 25px;
+  padding: 25px;
+}
+
+
+#burger-img {
+  align-content: center;
 }
