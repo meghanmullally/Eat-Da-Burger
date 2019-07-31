@@ -9,7 +9,8 @@ body {
 
 
 #burger-img {
-  align-content: center;
+  display: block;
+  text-align: center;
   margin: 0 auto;
 }
 
