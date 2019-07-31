@@ -10,4 +10,24 @@ body {
 
 #burger-img {
   align-content: center;
+  margin: 0 auto;
+}
+
+
+li {
+  padding: 5px;
+  margin: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
 }

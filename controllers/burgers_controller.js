@@ -18,11 +18,12 @@ router.get("/", function(req, res) {
 
 
 router.post('/api/burgers', function(req, res) {
+  console.log(req, "psot request");
   burger.insertOne([
-    'burger_name'
+        'burger_name'
   ],
   [
-    req.body.burger_name
+    req.body.name
   ], function(data) {
     res.redirect('/');
   });
