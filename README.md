@@ -1,5 +1,7 @@
 # Eat-Da-Burger
 
+[deployed-heroku-link](https://yummmyyyburger.herokuapp.com/)
+
 ## Description 
 
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
@@ -16,7 +18,7 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 ### Built with
 - [Github](https://github.com/)
 - [Visual Studio Code](https://visualstudio.microsoft.com/)
-- [Heroku](https://yummmyyyburger.herokuapp.com/)
+- [Heroku](https://heroku.com/)
 - [Node.js](https://nodejs.org/)
 - MySQL Heroku Deployment 
 - MySQL 
